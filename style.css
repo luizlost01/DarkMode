@@ -1,0 +1,15 @@
+body {
+    color: black;
+    font: normal 15pt Arial;
+    background-color: white;
+}
+
+#themeMode {
+    margin: 0;
+    display: block;
+}
+
+.theme {
+    background-color: rgb(31, 32, 33);
+    color: rgb(255, 255, 255);
+}
